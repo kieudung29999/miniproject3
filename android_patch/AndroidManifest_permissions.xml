@@ -1,0 +1,4 @@
+<!-- Dán 3 dòng này vào android/app/src/main/AndroidManifest.xml, NGAY TRƯỚC thẻ <application ...> -->
+<uses-permission android:name="android.permission.INTERNET"/>
+<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+<uses-permission android:name="android.permission.CAMERA"/>
