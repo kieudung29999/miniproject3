@@ -17,10 +17,7 @@ android/key.properties
 android/app/*.jks
 android/app/*.keystore
 local.properties
-# Khóa ký app, KHÔNG được đẩy lên
 android/key.properties
 *.jks
 *.keystore
-
-# APK để trong Releases, không để trong code
 *.apk
